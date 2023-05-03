@@ -26,7 +26,7 @@ Também deve ser possível converter de forma inversa. Além disso, foi incentiv
 <hr>
 
 ## 🎥 Preview
-<img src="preview.gif">
+<p align="center"></p><img src="preview.gif" width="500"></p>
 
 
 ## 🔨 Melhorias
@@ -53,4 +53,4 @@ As tecnologias usadas nesse projeto foram:
 
 ## 📜 Projeto
 
-Para acessar o projeto basta baixar e abrir o arquivo [Conversor.jar](). (É necessário ter o JRE instalado no seu computador para rodar.)
+Para acessar o projeto basta baixar e abrir o arquivo [Conversor.jar](https://github.com/GusBuz/Conversor-ONE/blob/main/out/artifacts/Conversor.jar?raw=true). (É necessário ter o JRE instalado no seu computador para rodar.)

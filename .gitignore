@@ -1,3 +1,4 @@
 .idea
-target
-converter\src\test
+*.iml
+target/
+converter/src/test/
