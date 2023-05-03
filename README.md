@@ -26,7 +26,7 @@ Também deve ser possível converter de forma inversa. Além disso, foi incentiv
 <hr>
 
 ## 🎥 Preview
-<p align="center"></p><img src="preview.gif" width="500"></p>
+<div align="center"><img src="preview.gif" width="500"></div>
 
 
 ## 🔨 Melhorias
