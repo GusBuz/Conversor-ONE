@@ -1,5 +1,4 @@
 <p align="center"><img src=alura-one-logo.png></p>
-<hr>
 
 <h2 align='center'>Challenge ONE Back End - Sprint 01</h2>
 
